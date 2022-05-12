@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
@@ -296,3 +297,6 @@ Ya tenemos todo para empezar... Éxitos!!! 🍀
 ---
 
 #### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***01a-primeros-pasos*** de Slack
+=======
+otro cambio
+>>>>>>> develop
